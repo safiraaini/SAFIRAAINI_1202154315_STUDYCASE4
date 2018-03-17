@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16sp"
+android:orientation="vertical"
+    tools:context="com.example.safiraaini.safira_1202154315_studycase4.MainActivity">
+
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="45sp"
+        android:textColor="#CC6262"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:text="Welcome!" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+        android:background="@color/colorAccent"
+        android:onClick="student"
+        android:text=" Student List"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorAccent"
+        android:onClick="image"
+        android:text="Image URL"
+        android:textColor="@android:color/background_light" />
+
+
+</LinearLayout>

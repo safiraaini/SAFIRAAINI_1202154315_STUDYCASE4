@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Safira_1202154315_studycase4</string>
+
+    <string-array name="namaStd">
+        <item>Ashlyn</item>
+        <item>Blair</item>
+        <item>Courtney</item>
+        <item>Delia</item>
+        <item>Edeline</item>
+        <item>Fallon</item>
+        <item>Genevieve</item>
+        <item>Hadley</item>
+        <item>Isla</item>
+        <item>Janessa</item>
+        <item>Kathleen</item>
+        <item>Lacey</item>
+    </string-array>
+</resources>
