@@ -1,9 +1,9 @@
 package com.example.safiraaini.safira_1202154315_studycase4;
 
-import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.view.View;
+        import android.content.Intent;
+        import android.support.v7.app.AppCompatActivity;
+        import android.os.Bundle;
+        import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-//intent yang menghubungkan dengan class ImageActivity
+    //intent yang menghubungkan dengan class ImageActivity
     public void image(View view) {
         Intent i = new Intent(this, ImageActivity.class);
         startActivity(i);

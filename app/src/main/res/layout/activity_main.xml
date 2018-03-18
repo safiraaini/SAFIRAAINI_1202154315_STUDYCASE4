@@ -8,8 +8,6 @@
 android:orientation="vertical"
     tools:context="com.example.safiraaini.safira_1202154315_studycase4.MainActivity">
 
-
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
